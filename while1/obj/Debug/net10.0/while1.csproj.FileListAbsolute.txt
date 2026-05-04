@@ -1,0 +1,14 @@
+C:\Grupo6ProgCS\while1\obj\Debug\net10.0\while1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Grupo6ProgCS\while1\obj\Debug\net10.0\while1.AssemblyInfoInputs.cache
+C:\Grupo6ProgCS\while1\obj\Debug\net10.0\while1.AssemblyInfo.cs
+C:\Grupo6ProgCS\while1\obj\Debug\net10.0\while1.csproj.CoreCompileInputs.cache
+C:\Grupo6ProgCS\while1\bin\Debug\net10.0\while1.exe
+C:\Grupo6ProgCS\while1\bin\Debug\net10.0\while1.deps.json
+C:\Grupo6ProgCS\while1\bin\Debug\net10.0\while1.runtimeconfig.json
+C:\Grupo6ProgCS\while1\bin\Debug\net10.0\while1.dll
+C:\Grupo6ProgCS\while1\bin\Debug\net10.0\while1.pdb
+C:\Grupo6ProgCS\while1\obj\Debug\net10.0\while1.dll
+C:\Grupo6ProgCS\while1\obj\Debug\net10.0\refint\while1.dll
+C:\Grupo6ProgCS\while1\obj\Debug\net10.0\while1.pdb
+C:\Grupo6ProgCS\while1\obj\Debug\net10.0\while1.genruntimeconfig.cache
+C:\Grupo6ProgCS\while1\obj\Debug\net10.0\ref\while1.dll
