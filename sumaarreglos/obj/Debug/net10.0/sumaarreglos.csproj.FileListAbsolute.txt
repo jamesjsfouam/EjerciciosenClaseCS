@@ -1,0 +1,15 @@
+C:\Grupo6ProgCS\sumaarreglos\obj\Debug\net10.0\sumaarreglos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Grupo6ProgCS\sumaarreglos\obj\Debug\net10.0\sumaarreglos.AssemblyInfoInputs.cache
+C:\Grupo6ProgCS\sumaarreglos\obj\Debug\net10.0\sumaarreglos.AssemblyInfo.cs
+C:\Grupo6ProgCS\sumaarreglos\obj\Debug\net10.0\sumaarreglos.csproj.CoreCompileInputs.cache
+C:\Grupo6ProgCS\sumaarreglos\obj\Debug\net10.0\sumaarreglos.sourcelink.json
+C:\Grupo6ProgCS\sumaarreglos\bin\Debug\net10.0\sumaarreglos.exe
+C:\Grupo6ProgCS\sumaarreglos\bin\Debug\net10.0\sumaarreglos.deps.json
+C:\Grupo6ProgCS\sumaarreglos\bin\Debug\net10.0\sumaarreglos.runtimeconfig.json
+C:\Grupo6ProgCS\sumaarreglos\bin\Debug\net10.0\sumaarreglos.dll
+C:\Grupo6ProgCS\sumaarreglos\bin\Debug\net10.0\sumaarreglos.pdb
+C:\Grupo6ProgCS\sumaarreglos\obj\Debug\net10.0\sumaarreglos.dll
+C:\Grupo6ProgCS\sumaarreglos\obj\Debug\net10.0\refint\sumaarreglos.dll
+C:\Grupo6ProgCS\sumaarreglos\obj\Debug\net10.0\sumaarreglos.pdb
+C:\Grupo6ProgCS\sumaarreglos\obj\Debug\net10.0\sumaarreglos.genruntimeconfig.cache
+C:\Grupo6ProgCS\sumaarreglos\obj\Debug\net10.0\ref\sumaarreglos.dll
